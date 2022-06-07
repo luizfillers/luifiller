@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou estudando sobre Lógica de Programação, Algoritmos, e HTML 5.
   
- ##
+##
 
 <div>
   <h3 align="left">Pode me encontrar em:</h3>
@@ -16,24 +16,14 @@
     </p>
 </div>
   
- ##
+##
   
 <div>
   <h3 align="left">Dá uma ajudinha 😁:</h3>
     <p><a href="https://www.buymeacoffee.com/Filler"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Luiz Nison Filler" /></a></p><br><br>
 </div>
-    
- ##
   
-<div>  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luifiller&label=Profile%20views&color=0e75b6&style=flat" alt="luifiller" /> </p>
-</div>
-  
- ##
+##
   
 ![Snake animation](https://github.com/luifiller/luifiller/blob/output/github-contribution-grid-snake.svg)
 
-  
-<!--
-**luifiller/luifiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
