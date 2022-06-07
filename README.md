@@ -31,7 +31,7 @@
   
  ##
   
-![Snake animation](https://github.com/rafaballerini/luifiller/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luifiller/luifiller/blob/output/github-contribution-grid-snake.svg)
 
   
 <!--
