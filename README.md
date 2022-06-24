@@ -18,12 +18,5 @@
   
 ##
   
-<div>
-  <h3 align="left">Dá uma ajudinha 😁:</h3>
-    <p><a href="https://www.buymeacoffee.com/Filler"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Luiz Nison Filler" /></a></p><br><br>
-</div>
-  
-##
-  
 ![Snake animation](https://github.com/luifiller/luifiller/blob/output/github-contribution-grid-snake.svg)
 
