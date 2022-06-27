@@ -1,12 +1,34 @@
-<h1 align="center">Oi 👋, sou o Luiz Nison</h1>
-<h3 align="center">Sou um cientista comportamental e psicólogo se aventurando pela programação.</h3>
+<h1 align="left">Oi 👋, sou o Luiz Nison!</h1>
+<img align='right' src="https://img.freepik.com/vetores-gratis/homem-operacional-laptop-icone-dos-desenhos-animados-ilustracao-pessoas-conceito-de-icone-de-negocios-isolado-estilo-flat-cartoon_138676-1803.jpg?w=740" width="270">
 
+```javascript
+const lui = {
+  pronomes: "Ele" | "Dele",
+  sobre: "Cientista comportamental e psicólogo se aventurando pela programação",
+  atualidade: "Estudando sobre Lógica de Programação, Algoritmos, e HTML 5",
+  linguagens: [HTML],
+  ferramentas: ["Trabalhando nisso..."],
+  arquitetura: ["Trabalhando nisso..."],
+  hobbies: {
+                  lazer: "Fotografia", "Café", "Plantas",
+                  acadêmico: "Ciência do Comportamento",
+                },
+ desafio: "Estudar os Fundamentos de Lógica de Programação. Hiperfoco nos algoritmos."
+}
+```
+<!--- inspirado no README.md da Thaiane Braga(https://github.com/Thaiane/Thaiane/blob/master/README.md) --->
 
+## 
+<div>
+  <h3 align="left">Iniciativas próprias:</h3>
+    <h4>Algoritmos que mais gostei de desenvolver:</h4>  
+      <ul>
+        <li><a href="https://github.com/luifiller/treinos-pseudocodigos/blob/933fa3d6e3eb51ec1dc4c73f60d159e8ace74b31/folder/procedimentos/TesteTriangulos.ALG">Testes de triângulos</a></li>
+        <li><a href="https://github.com/luifiller/treinos-pseudocodigos/blob/933fa3d6e3eb51ec1dc4c73f60d159e8ace74b31/folder/procedimentos/VerificadorAngulos.ALG">Verificação de ângulos</a></li>
+      </ul>
+ </div>
 
-- 🌱 Atualmente estou estudando sobre Lógica de Programação, Algoritmos, e HTML 5.
-  
 ##
-
 <div>
   <h3 align="left">Pode me encontrar em:</h3>
     <p align="left">
@@ -16,7 +38,6 @@
     </p>
 </div>
   
-##
-  
+## 
 ![Snake animation](https://github.com/luifiller/luifiller/blob/output/github-contribution-grid-snake.svg)
 
