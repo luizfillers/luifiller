@@ -30,6 +30,16 @@ const lui = {
  </div>
 
 ##
+<img align='right' src="https://dynamic.thoughtworks.com/landing_pages/image0-3bfa4977dcfc3a69f0b4c2addd210880.jpeg" width="200">
+<div>
+  <figure>
+    <h3 align="left">Frase inspiradora:</h3>  
+      <blockquote> <p>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</p> </blockquote>
+      <figcaption>― Martin Fowler, <cite>Refactoring: Improving the Design of Existing Code (1999, p. 15)</cite></figcaption>
+  </figure>
+</div>
+
+##
 <div>
   <h3 align="left">Pode me encontrar em:</h3>
     <p align="left">
