@@ -23,8 +23,9 @@ const lui = {
   <h3 align="left">Iniciativas próprias:</h3>
     <h4>Algoritmos que mais gostei de desenvolver:</h4>  
       <ul>
-        <li><a href="https://github.com/luifiller/treinos-pseudocodigos/blob/933fa3d6e3eb51ec1dc4c73f60d159e8ace74b31/folder/procedimentos/TesteTriangulos.ALG">Testes de triângulos</a></li>
-        <li><a href="https://github.com/luifiller/treinos-pseudocodigos/blob/933fa3d6e3eb51ec1dc4c73f60d159e8ace74b31/folder/procedimentos/VerificadorAngulos.ALG">Verificação de ângulos</a></li>
+        <li><a href="https://github.com/luifiller/treinos-pseudocodigos/blob/main/folder/procedimentos/AnsiedadeEventos.ALG">Regulador de ansiedade a eventos</a></li>
+        <li><a href="https://github.com/luifiller/treinos-pseudocodigos/blob/main/folder/procedimentos/TesteTriangulos.ALG">Testes de triângulos</a></li>
+        <li><a href="https://github.com/luifiller/treinos-pseudocodigos/blob/main/folder/procedimentos/VerificadorAngulos.ALG">Verificação de ângulos</a></li>
       </ul>
  </div>
 
